@@ -1,1 +1,1 @@
-http://github.com/nvkelso/high-seas/raw/master/preview.png 
+![](http://github.com/nvkelso/high-seas/raw/master/preview.png)
