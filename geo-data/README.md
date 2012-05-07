@@ -9,25 +9,25 @@ WARNING: These values are still in flux.
 
 _Ordered best to worst_
 
-**Land office** - For marinas and cargo ports.
-**Crane** - If more than one, the central one. For cargo ports.
-**Dock** - The area of water between two piers or alongside a pier that receives a ship for loading, unloading, or repairs.
-**Pier** - Has a 'dock' on either side. Usually a few in a row.
-**Quay** - A wharf or reinforced bank where ships are loaded or unloaded.
-**Wharf** - A landing place or pier where ships may tie up and load or unload. Usually singular.
-**Marina** - Place for recreational ships to tie up.
-**Port**  - A place on a waterway with facilities for loading and unloading ships.
-**Harbor** - (Harbour) A sheltered part of a body of water deep enough to provide anchorage for ships.
-**Anchorage** - A harbour with no facilities.
-**Approximate** - Could be up to 20 miles away from the actual port location. 
+* **Land office** - For marinas and cargo ports.
+* **Crane** - If more than one, the central one. For cargo ports.
+* **Dock** - The area of water between two piers or alongside a pier that receives a ship for loading, unloading, or repairs.
+* **Pier** - Has a 'dock' on either side. Usually a few in a row.
+* **Quay** - A wharf or reinforced bank where ships are loaded or unloaded.
+* **Wharf** - A landing place or pier where ships may tie up and load or unload. Usually singular.
+* **Marina** - Place for recreational ships to tie up.
+* **Port**  - A place on a waterway with facilities for loading and unloading ships.
+* **Harbor** - (Harbour) A sheltered part of a body of water deep enough to provide anchorage for ships.
+* **Anchorage** - A harbour with no facilities.
+* **Approximate** - Could be up to 20 miles away from the actual port location. 
 More often it's within a mile of the actual location. Accuracy is low due to geocoding 
 based on town name, use of DD.DD° or DD.DDDD° format instead of DD.DDDDDD° for latitude 
 and longitude values.
-**City** - Purely "there's a port in City A, so the port XY gets the longLat of City A, often putting it on land instead of water.
+* **City** - Purely "there's a port in City A, so the port XY gets the longLat of City A, often putting it on land instead of water.
 
 Less useful:
 
-**Jetty** -  1. A structure, such as a pier, that projects into a body of water to influence the current or tide or to protect a harbor or shoreline from storms or erosion. 2. a wharf
+* **Jetty** -  1. A structure, such as a pier, that projects into a body of water to influence the current or tide or to protect a harbor or shoreline from storms or erosion. 2. a wharf
 
 Note: some above from [Yahoo! Answers](http://answers.yahoo.com/question/index?qid=20100530145659AAHL8k4) and American Heritage Dictionary
 
